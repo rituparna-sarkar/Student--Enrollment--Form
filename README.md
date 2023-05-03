@@ -23,6 +23,14 @@ JsonPowerDB is a powerful database server with developer friendly REST API servi
 - Multi-mode databases, one solution to  variety of data
 - User friendly APIs
 
+## Images
+> Form page
+<img width="1196" alt="Screenshot 2023-05-03 at 11 01 27 PM" src="https://user-images.githubusercontent.com/130404465/235998104-7784d4d7-d323-461a-85c1-c93eab46225b.png">
+
+> JsonPowerDB database
+<img width="1244" alt="Screenshot 2023-05-03 at 11 06 13 PM" src="https://user-images.githubusercontent.com/130404465/235999300-8538e455-e95f-4503-bfdf-825d08a26f5c.png">
+
+
 ## Release History
 - Version 1.0.0 `(latest)`
   - > Project initilization - provides create, modify, view record functionality in html form.    
