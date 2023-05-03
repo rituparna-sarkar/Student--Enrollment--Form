@@ -17,7 +17,7 @@ The data is stored in JsonPowerDB database using REST API endpoints.
 ## About JsonPowerDB  
 JsonPowerDB is a powerful database server with developer friendly REST API services. Its benefits include -
 - Simple to use, real time database
-- Well defined  and seemless CRUD operations
+- Well defined  and seamless CRUD operations
 - Schema free, easy to maintain
 - Serverless support
 - Multi-mode databases, one solution to  variety of data
