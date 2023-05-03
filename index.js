@@ -153,6 +153,7 @@ function saveData() {
     // alert(JSON.stringify(resJsonObj));
     jQuery.ajaxSetup({ async: true });
     resetForm();
+    alert("Student record added successfully")
     $("#stuRoll").focus();
 }
 function updateData() {
@@ -163,6 +164,7 @@ function updateData() {
     var resJsonObj = executeCommandAtGivenBaseUrl(updateRequest, jpdbBaseURL, jpdbIML);
     jQuery.ajaxSetup({ async: true });
     console.log(resJsonObj);
+    alert("Student record updated successfully")
     resetForm();
     $("stuName").focus();
 }
