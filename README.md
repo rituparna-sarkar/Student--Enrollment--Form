@@ -14,7 +14,7 @@ This projects provides an interactive html form for student enrollment using **J
 
 The data is stored in JsonPowerDB database using REST API endpoints.
 
-## JsonPowerDB  
+## About JsonPowerDB  
 JsonPowerDB is a powerful database server with developer friendly REST API services. Its benefits include -
 - Simple to use, real time database
 - Well defined  and seemless CRUD operations
@@ -23,4 +23,6 @@ JsonPowerDB is a powerful database server with developer friendly REST API servi
 - Multi-mode databases, one solution to  variety of data
 - User friendly APIs
 
-## About Project
+## Release History
+- Version 1.0.0 `(latest)`
+  - > Project initilization - provides create, modify, view record functionality in html form.    
